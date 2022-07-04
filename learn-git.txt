@@ -2,5 +2,4 @@ How to do this
 - create account
 - set profile
 - get flagged imideitly
-- still waiting
 - whatever this is
