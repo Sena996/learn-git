@@ -1,5 +1,5 @@
 How to do this
 - create account
 - set profile
-- get flagged imideitly
-- whatever this is
+- learn git
+  - how to use this
