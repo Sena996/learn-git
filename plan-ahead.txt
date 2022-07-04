@@ -3,3 +3,4 @@ My plan ahed for this
 - coba fitur
 - belajar css
 - belajar css framework
+- buat project dan latihan
