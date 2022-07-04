@@ -1,4 +1,5 @@
 My plan ahed for this
 - duno
 - coba fitur
-- coba fitur 2
+- belajar css
+- belajar css framework
